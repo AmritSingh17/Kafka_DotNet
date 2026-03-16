@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ECommerce.Model
 {
-    internal class productModel
+    public class productModel
     {
         public int Id { get; set; }
         public string Name { get; set; }
